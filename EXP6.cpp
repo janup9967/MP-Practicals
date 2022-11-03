@@ -1,5 +1,8 @@
 
-//  Apply Mixed Language Programing to design a calculator
+// Apply Mixed Language Programing to design a calculator
+
+
+// 1.   Code for Left Shift and Right Shift in C++
 
 
 #include <iostream.h>
@@ -32,3 +35,27 @@ int main()
     getch();
     return 0;
 }
+
+
+
+
+// 2.  Code for Calculator in .C
+#include<stdio.h>
+#include<conio.h>
+void main() {
+
+   int a = 6, b = 3, c;
+   clrscr();
+   asm {
+      mov ax,a
+      mov bx,b
+      add ax,bx
+      mov c,ax
+   }
+
+   printf("%d",c);
+   getch();
+}
+
+
+
