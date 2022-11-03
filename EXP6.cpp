@@ -1,5 +1,5 @@
 
-#  Apply Mixed Language Programing to design a calculator
+//  Apply Mixed Language Programing to design a calculator
 
 
 #include <iostream.h>
