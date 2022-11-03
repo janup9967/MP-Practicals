@@ -1,3 +1,7 @@
+
+; Apply Assembly Language Programing to covert HEX to BCD.
+
+
 .model small
 .stack
 .data
