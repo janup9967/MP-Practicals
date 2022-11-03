@@ -1,4 +1,8 @@
-MODEL SMALL
+
+; Apply Assembly Language Programing to perform  string operations. (i)Accept, (ii) Display, (iii) Concatenation (iv) Compare
+
+
+.MODEL SMALL
 .STACK
 .DATA
 M1 DB,10,13," ENTER STRING 1:$"
