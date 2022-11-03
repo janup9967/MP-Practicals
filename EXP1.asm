@@ -1,3 +1,7 @@
+
+;Apply Assembly Language Programing to enter and display 8-bit no’s
+
+
 .model small
 .stack
 .data
