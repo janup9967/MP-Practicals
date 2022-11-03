@@ -1,3 +1,6 @@
+
+;Write an ALP To find negatives numbers in the given array.
+
 .model small
 .stack
 .data
