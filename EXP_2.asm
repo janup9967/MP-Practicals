@@ -1,7 +1,5 @@
 
-; Apply Assembly Language Programing to perform  addition and subtraction of two 16 bits numbers using macros and procedure.
-
-
+;Apply Assembly Language Programing to covert HEX to BCD.
 
 
 .model small
