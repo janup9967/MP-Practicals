@@ -36,8 +36,11 @@ JNZ Back
 Back1:
 POP DX
 ADD Dl,30H
+
+;Display single char on screen.
 MOV AH,02
 INT 21H
+
 DEC cl
 JNZ Back1
 .exit
