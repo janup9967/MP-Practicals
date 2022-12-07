@@ -15,7 +15,9 @@ Disp Macro XX
         INT 21H
 ENDM
 .startup
+;Display message on screen
 Disp M1
+
 mov DX,0
 mov AX,no
 mov BX,0AH
